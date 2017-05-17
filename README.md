@@ -18,8 +18,7 @@ function run() {
 	var res = unicodeDecode(query);
 	var items = [];
      items.push({
-         title:'title',
-         subtitle:res,
+         title:res,
          arg:res
      });
   return JSON.stringify({items:items});
