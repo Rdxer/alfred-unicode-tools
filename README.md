@@ -25,13 +25,14 @@ function run() {
 }
 ```
 
-##使用
 
-(iOS)别问我为什么不加分类,不想加 😂
+## 使用
+
+(iOS)别问我为什么不加分类,不想加 😂,拷贝
 
 ![](41CF6D50-0ACE-4F06-8C1D-931308A02A2B.png)
 
-呼出 alfred 然后 keyword:`deunic` 
+呼出 alfred 然后 keyword:`deunic` 粘贴拷贝的带 Unicode 的字符串,显示结果如下,回车可复制
 
 ![](D6147456-B489-446C-A68E-8D62FC997091.png)
 
